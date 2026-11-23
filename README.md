@@ -24,13 +24,14 @@ An anonymous confession platform built for the BSc-MSc AI & DS batch. Students c
 
 Open this project folder in VS Code and run these commands in the terminal:
 
+```powershell
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
 
-
-Open http://127.0.0.1:8000.
+Open `http://127.0.0.1:8000`.
 
 ## Student registration
 
