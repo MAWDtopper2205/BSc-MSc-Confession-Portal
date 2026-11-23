@@ -1,2 +1,2 @@
 # BSc-MSc-Confession-Portal
-A confession portal for Y25 BSc-MSc LNMIIT students.
+Anonymous confession portal with live student ranking, built using FastAPI and SQLite.
