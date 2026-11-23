@@ -29,8 +29,6 @@ After registering once, they log in using their student ID and password. The inv
 ## Main features
 
 - Login required to access the main portal
-- Ten student profiles
-- Ranking graph with circles connected by a line
 - Click a profile to open its confession page
 - Anonymous confession posting
 - Like/unlike confessions
